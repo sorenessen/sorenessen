@@ -1,9 +1,7 @@
 
-# I build the software I wish already existed.
+# I build the things I wish existed.
 
-**Software engineer. Product builder. Occasional architect of my own problems.**
-
-Founder of [Calypso Labs](https://www.calypso-labs.com/).
+**Product Builder and Designer - Software engineer. Occasional architect of my own problems.**
 
 I design, build, test, and ship software. Sometimes it's a commercial product. Sometimes it's an experiment. Sometimes it's an application I created because I got tired of doing something the hard way.
 
