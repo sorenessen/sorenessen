@@ -24,8 +24,10 @@ They're different kinds of software, but they share a common philosophy: solve i
 ### 🌎 Est
 **A persistent, evolving planetary simulation**
 
+### [Visit Live Est Observatory](https://calypso-labs.com/est/)
+
 [Explore Est repositories](https://github.com/sorenessen?tab=repositories&q=Est)
-### [Visit_Live Est Observatory](https://calypso-labs.com/est/)
+
 
 Est is an ambitious simulation project exploring how an interconnected virtual world can develop and evolve over time.
 
