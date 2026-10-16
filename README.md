@@ -11,7 +11,7 @@ I don't believe every problem needs the same framework, architecture, or technol
 
 I believe in understanding the problem, choosing the appropriate tools, and building something that actually works.
 
-> **Repository access:** Some projects listed below are maintained in private repositories. If a repository requires authorization, feel free to [contact me on LinkedIn](https://www.linkedin.com/in/sorenessen/) to discuss access. Access is granted selectively, subject to project confidentiality and development status.
+> **Repository access:** Some projects listed below are maintained in private repositories. If a repository requires authorization, feel free to [contact me on LinkedIn](https://www.linkedin.com/in/soren-essen-776593157/) to discuss access. Access is granted selectively, subject to project confidentiality and development status.
 
 ---
 
@@ -320,7 +320,7 @@ I'm happy to connect with engineers, technical leaders, recruiters, and people w
 **Links**
 
 - [GitHub](https://github.com/sorenessen)
-- [LinkedIn](https://www.linkedin.com/in/sorenessen/)
+- [LinkedIn](https://www.linkedin.com/in/soren-essen-776593157/)
 - [Calypso Labs](https://www.calypso-labs.com/)
 - [Calypso Labs on LinkedIn](https://www.linkedin.com/company/calypso-labs/)
 
