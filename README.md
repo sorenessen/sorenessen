@@ -94,7 +94,7 @@ One of the more interesting challenges has been sharing behavior and rendering l
 
 <h1 align="center">=== Sparrow ===</h1>
 <p align="center">
-  <img width="214" height="214" alt="sparrow-icon-1024-BtwIhqfI" src="https://github.com/user-attachments/assets/a8c149a6-2427-450c-a281-81e6d530f999" />
+  <img width="214" height="214" alt="sparrow-logo-public" src="https://github.com/user-attachments/assets/b1e73444-8f57-428e-91f7-dcf485ce1131" />
 </p>
 
 <h3 align="center">A development workspace that remembers how you work</h4>
