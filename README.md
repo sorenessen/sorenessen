@@ -43,7 +43,7 @@ They're different kinds of software, but they share a common philosophy: solve i
 </p>
 
 ### [Visit Live Est Observatory](https://calypso-labs.com/est/)
-[Explore Est repositories](https://github.com/sorenessen?tab=repositories&q=Est) -- Contact for authorization
+[Explore Est repositories](https://github.com/sorenessen?tab=repositories&q=Est) -- Permission required
 
 Est is an ambitious simulation project exploring how an interconnected virtual world can develop and evolve over time.
 
@@ -69,7 +69,7 @@ Est is part software engineering challenge, part research playground, and part e
 ### 🎨 Griddle
 **Screen annotation, presentation, and recording software**
 
-[View Griddle repository](https://github.com/sorenessen/Griddle)
+[View Griddle repository](https://github.com/sorenessen/Griddle) -- Permission required
 
 Griddle began with a straightforward idea: communicating something on a screen should be easier than it usually is.
 
@@ -98,9 +98,9 @@ One of the more interesting challenges has been sharing behavior and rendering l
   <img width="214" height="214" alt="sparrow-icon-1024-BtwIhqfI" src="https://github.com/user-attachments/assets/a8c149a6-2427-450c-a281-81e6d530f999" />
 </p>
 
-**A development workspace that remembers how you work**
+<h4 align="center">A development workspace that remembers how you work</h4>
 
-[Explore Sparrow repositories](https://github.com/sorenessen?tab=repositories&q=Sparrow)
+[Explore Sparrow repositories](https://github.com/sorenessen?tab=repositories&q=Sparrow) -- Permission required
 
 I work across several projects with very different development environments.
 
@@ -131,7 +131,7 @@ It's to make them easier to work with.
 ### ♠️ Mainfloor
 **A multiplayer poker platform and game engine**
 
-[Explore Mainfloor repositories](https://github.com/sorenessen?tab=repositories&q=mainfloor)
+[Explore Mainfloor repositories](https://github.com/sorenessen?tab=repositories&q=mainfloor) -- Permission required
 
 Mainfloor is a multiplayer Texas Hold'em development project centered on game rules, shared state, and the complexity of coordinating players in real time.
 
@@ -189,7 +189,7 @@ The philosophy is simple: tests should produce meaningful evidence, not just a g
 ### 🔍 CopyCat
 **Experimental AI text integrity analysis**
 
-[Explore CopyCat repositories](https://github.com/sorenessen?tab=repositories&q=CopyCat)
+[Explore CopyCat repositories](https://github.com/sorenessen?tab=repositories&q=CopyCat) -- Permission required
 
 CopyCat explores the difficult problem of evaluating whether written content exhibits characteristics associated with machine-generated text.
 
@@ -216,7 +216,7 @@ The project is also an ongoing lesson in the limitations of AI detection and the
 ### 👻 GhostLine
 **Bot detection and suspicious traffic analysis**
 
-[Explore GhostLine repositories](https://github.com/sorenessen?tab=repositories&q=GhostLine)
+[Explore GhostLine repositories](https://github.com/sorenessen?tab=repositories&q=GhostLine) -- Permission required
 
 GhostLine is a bot detection tool designed to identify suspicious automated activity on websites and web applications.
 
