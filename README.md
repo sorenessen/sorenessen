@@ -94,7 +94,10 @@ One of the more interesting challenges has been sharing behavior and rendering l
 ---
 
 ### 🐦 Sparrow
-<a align="center"><img width="214" height="214" alt="sparrow-icon-1024-BtwIhqfI" src="https://github.com/user-attachments/assets/a8c149a6-2427-450c-a281-81e6d530f999" /></a>
+<p align="center">
+  <img width="214" height="214" alt="sparrow-icon-1024-BtwIhqfI" src="https://github.com/user-attachments/assets/a8c149a6-2427-450c-a281-81e6d530f999" />
+</p>
+
 **A development workspace that remembers how you work**
 
 [Explore Sparrow repositories](https://github.com/sorenessen?tab=repositories&q=Sparrow)
