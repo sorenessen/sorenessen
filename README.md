@@ -65,6 +65,9 @@ Est is part software engineering challenge, part research playground, and part e
 ---
 
 <h1 align="center">=== Griddle ===</h1>
+<p align="center">
+  <img width="1254" height="1254" alt="Griddle Dark No BG" src="https://github.com/user-attachments/assets/78eefd25-e11f-4551-bd0a-15f56c678894" />
+</p>
 <h3 align="center">Screen annotation, presentation, and recording software</h2>
 
 [Explore Griddle repository](https://github.com/sorenessen/Griddle) -- Permission required
