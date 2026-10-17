@@ -27,16 +27,15 @@ They're different kinds of software, but they share a common philosophy: solve i
 <p align="center">
   <img width="321" height="214" alt="Est_ Earth in Cosmic Glow" src="https://github.com/user-attachments/assets/6ef2e918-57eb-41b0-af21-5592b8df7ed6" />
 </p>
+<p align="center">
+  <img width="480" height="240" alt="Screenshot 2026-10-16 at 9 33 52 PM" src="https://github.com/user-attachments/assets/becce0c7-c4a1-47fa-9662-88e14f8798af" />
+</p>
 
 <h3 align="center">A living planetary simulation.</h3>
 <p align="center">
   <img width="250" height="120" alt="mount-rainier-night-terrain" src="https://github.com/user-attachments/assets/3f3123e0-af0e-41c9-94b3-ac2966fc7d5c" />
   <img width="250" height="120" alt="Screenshot 2026-09-12 at 12 08 40 AM" src="https://github.com/user-attachments/assets/b1a3c767-a876-4bf4-ade0-0e979c52458e" />
   <img width="250" height="120" alt="Screenshot 2026-09-12 at 12 07 52 AM" src="https://github.com/user-attachments/assets/acbe955c-f79f-436d-be10-cb4aa3daef6e" />
-</p>
-
-<p align="center">
-  <img width="480" height="240" alt="Screenshot 2026-10-16 at 9 33 52 PM" src="https://github.com/user-attachments/assets/becce0c7-c4a1-47fa-9662-88e14f8798af" />
 </p>
 
 ### [Visit Live Est Observatory](https://calypso-labs.com/est/)
