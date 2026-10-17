@@ -217,6 +217,9 @@ The project is also an ongoing lesson in the limitations of AI detection and the
 ---
 
 <h1 align="center">=== GhostLine ===</h1>
+<p align="center">
+  <img width="214" height="214" alt="ghostline-og-train copy" src="https://github.com/user-attachments/assets/f9eb5178-eb00-41be-a10b-8c70dec1892a" />
+</p>
 <h3 align="center">Bot detection and suspicious traffic analysis</h3>
 
 [Explore GhostLine repositories](https://github.com/sorenessen?tab=repositories&q=GhostLine) -- Permission required
