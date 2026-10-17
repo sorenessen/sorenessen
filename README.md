@@ -33,9 +33,9 @@ They're different kinds of software, but they share a common philosophy: solve i
 
 <h3 align="center">A living planetary simulation.</h3>
 <p align="center">
-  <img width="250" height="120" alt="mount-rainier-night-terrain" src="https://github.com/user-attachments/assets/3f3123e0-af0e-41c9-94b3-ac2966fc7d5c" />
-  <img width="250" height="120" alt="Screenshot 2026-09-12 at 12 08 40 AM" src="https://github.com/user-attachments/assets/b1a3c767-a876-4bf4-ade0-0e979c52458e" />
-  <img width="250" height="120" alt="Screenshot 2026-09-12 at 12 07 52 AM" src="https://github.com/user-attachments/assets/acbe955c-f79f-436d-be10-cb4aa3daef6e" />
+  <img width="240" height="120" alt="rainier1" src="https://github.com/user-attachments/assets/1bb9cb0a-aac1-40b5-b5ea-e4c387bc83c0" />
+  <img width="240" height="120" alt="rainier2" src="https://github.com/user-attachments/assets/f752264a-6a27-4574-b803-211103faf468" />
+  <img width="240" height="120" alt="rainier3" src="https://github.com/user-attachments/assets/65a5dce7-2811-4752-b655-12b5e0b3e4fc" />
 </p>
 
 ### [Visit Live Est Observatory](https://calypso-labs.com/est/)
