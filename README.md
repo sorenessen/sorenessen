@@ -43,7 +43,7 @@ They're different kinds of software, but they share a common philosophy: solve i
 </p>
 
 ### [Visit Live Est Observatory](https://calypso-labs.com/est/)
-[Explore Est repositories](https://github.com/sorenessen?tab=repositories&q=Est)
+[Explore Est repositories](https://github.com/sorenessen?tab=repositories&q=Est) -- Contact for authorization
 
 Est is an ambitious simulation project exploring how an interconnected virtual world can develop and evolve over time.
 
