@@ -25,7 +25,7 @@ They're different kinds of software, but they share a common philosophy: solve i
 
 <h1 align="center">=== EST ===</h1>
 <p align="center">
-  <img width="321" height="214" alt="Est_ Earth in Cosmic Glow" src="https://github.com/user-attachments/assets/6ef2e918-57eb-41b0-af21-5592b8df7ed6" />
+  <img width="311" height="214" alt="Est_ Earth in Cosmic Glow" src="https://github.com/user-attachments/assets/6ef2e918-57eb-41b0-af21-5592b8df7ed6" />
 </p>
 <p align="center">
   <img width="480" height="240" alt="Screenshot 2026-10-16 at 9 33 52 PM" src="https://github.com/user-attachments/assets/becce0c7-c4a1-47fa-9662-88e14f8798af" />
