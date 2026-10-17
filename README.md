@@ -91,7 +91,7 @@ One of the more interesting challenges has been sharing behavior and rendering l
 
 ---
 
-<h1 align="center">Sparrow</h1>
+<h1 align="center">=== Sparrow ===</h1>
 <p align="center">
   <img width="214" height="214" alt="sparrow-icon-1024-BtwIhqfI" src="https://github.com/user-attachments/assets/a8c149a6-2427-450c-a281-81e6d530f999" />
 </p>
@@ -126,7 +126,7 @@ It's to make them easier to work with.
 
 ---
 
-<h1 align="center">Mainfloor</h1>
+<h1 align="center">=== Mainfloor ===</h1>
 <h3 align="center">A multiplayer poker platform and game engine</h3>
 
 [Explore Mainfloor repositories](https://github.com/sorenessen?tab=repositories&q=mainfloor) -- Permission required
@@ -156,7 +156,7 @@ It's also a reminder that the rules of poker are considerably easier to explain 
 
 ---
 
-<h1 align="center">CATE</h1>
+<h1 align="center">=== CATE ===</h1>
 <h3 align="center">Calypso Automated HTTP and API Testing Engine</h3>
 
 [Explore CATE repositories](https://github.com/sorenessen?tab=repositories&q=CATE)
@@ -184,7 +184,7 @@ The philosophy is simple: tests should produce meaningful evidence, not just a g
 
 ---
 
-<h1 align="center">CopyCat</h1>
+<h1 align="center">=== CopyCat ===</h1>
 <h3 align="center">Experimental AI text integrity analysis</h3>
 
 [Explore CopyCat repositories](https://github.com/sorenessen?tab=repositories&q=CopyCat) -- Permission required
@@ -211,7 +211,7 @@ The project is also an ongoing lesson in the limitations of AI detection and the
 
 ---
 
-<h1 align="center">GhostLine</h1>
+<h1 align="center">=== GhostLine ===</h1>
 <h3 align="center">Bot detection and suspicious traffic analysis</h3>
 
 [Explore GhostLine repositories](https://github.com/sorenessen?tab=repositories&q=GhostLine) -- Permission required
