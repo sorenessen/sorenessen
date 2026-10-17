@@ -65,7 +65,7 @@ Est is part software engineering challenge, part research playground, and part e
 ---
 
 <h1 align="center">Griddle</h1>
-<h2 align="center">Screen annotation, presentation, and recording software</h2>
+<h3 align="center">Screen annotation, presentation, and recording software</h2>
 
 [Explore Griddle repository](https://github.com/sorenessen/Griddle) -- Permission required
 
@@ -91,12 +91,12 @@ One of the more interesting challenges has been sharing behavior and rendering l
 
 ---
 
-<h1 align="center">🐦 Sparrow</h1>
+<h1 align="center">Sparrow</h1>
 <p align="center">
   <img width="214" height="214" alt="sparrow-icon-1024-BtwIhqfI" src="https://github.com/user-attachments/assets/a8c149a6-2427-450c-a281-81e6d530f999" />
 </p>
 
-<h4 align="center">A development workspace that remembers how you work</h4>
+<h3 align="center">A development workspace that remembers how you work</h4>
 
 [Explore Sparrow repositories](https://github.com/sorenessen?tab=repositories&q=Sparrow) -- Permission required
 
@@ -126,8 +126,8 @@ It's to make them easier to work with.
 
 ---
 
-### ♠️ Mainfloor
-**A multiplayer poker platform and game engine**
+<h1 align="center">Mainfloor</h1>
+<h3 align="center">A multiplayer poker platform and game engine</h3>
 
 [Explore Mainfloor repositories](https://github.com/sorenessen?tab=repositories&q=mainfloor) -- Permission required
 
@@ -156,8 +156,8 @@ It's also a reminder that the rules of poker are considerably easier to explain 
 
 ---
 
-### 🧪 CATE
-**An automated HTTP and API testing engine**
+<h1 align="center">CATE</h1>
+<h3 align="center">Calypso Automated HTTP and API Testing Engine</h3>
 
 [Explore CATE repositories](https://github.com/sorenessen?tab=repositories&q=CATE)
 
@@ -184,8 +184,8 @@ The philosophy is simple: tests should produce meaningful evidence, not just a g
 
 ---
 
-### 🔍 CopyCat
-**Experimental AI text integrity analysis**
+<h1 align="center">CopyCat</h1>
+<h3 align="center">Experimental AI text integrity analysis</h3>
 
 [Explore CopyCat repositories](https://github.com/sorenessen?tab=repositories&q=CopyCat) -- Permission required
 
@@ -211,8 +211,8 @@ The project is also an ongoing lesson in the limitations of AI detection and the
 
 ---
 
-### 👻 GhostLine
-**Bot detection and suspicious traffic analysis**
+<h1 align="center">GhostLine</h1>
+<h3 align="center">Bot detection and suspicious traffic analysis</h3>
 
 [Explore GhostLine repositories](https://github.com/sorenessen?tab=repositories&q=GhostLine) -- Permission required
 
