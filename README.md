@@ -69,7 +69,7 @@ Est is part software engineering challenge, part research playground, and part e
 ### 🎨 Griddle
 **Screen annotation, presentation, and recording software**
 
-[View Griddle repository](https://github.com/sorenessen/Griddle) -- Permission required
+[Explore Griddle repository](https://github.com/sorenessen/Griddle) -- Permission required
 
 Griddle began with a straightforward idea: communicating something on a screen should be easier than it usually is.
 
