@@ -189,7 +189,7 @@ The philosophy is simple: tests should produce meaningful evidence, not just a g
 
 <h1 align="center">=== CopyCat ===</h1>
 <p align="center">
-  <img width="512" height="512" alt="copycat-full-logo" src="https://github.com/user-attachments/assets/0003acbc-ff84-4c67-9083-18be776074f1" />
+  <img width="214" height="214" alt="copycat-full-logo" src="https://github.com/user-attachments/assets/0003acbc-ff84-4c67-9083-18be776074f1" />
 </p>
 
 <h3 align="center">Experimental AI text integrity analysis</h3>
