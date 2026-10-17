@@ -38,10 +38,11 @@ They're different kinds of software, but they share a common philosophy: solve i
 </p>
 <h4 align="center">"In-World" development progress examples</h4>
 
-### [Visit Live Est Observatory](https://calypso-labs.com/est/)
-
-[Explore Est repositories](https://github.com/sorenessen?tab=repositories&q=Est)
-
+<p align="center">
+  <img width="1717" height="925" alt="Screenshot 2026-10-16 at 9 33 52 PM" src="https://github.com/user-attachments/assets/becce0c7-c4a1-47fa-9662-88e14f8798af" />
+  ### [Visit Live Est Observatory](https://calypso-labs.com/est/)
+  [Explore Est repositories](https://github.com/sorenessen?tab=repositories&q=Est)
+</p>
 
 Est is an ambitious simulation project exploring how an interconnected virtual world can develop and evolve over time.
 
