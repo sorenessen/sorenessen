@@ -21,8 +21,6 @@ These projects range from developer utilities and cross-platform applications to
 
 They're different kinds of software, but they share a common philosophy: solve interesting problems, understand the underlying systems, and build useful things.
 
-### 🌎 Est
-
 <h1 align="center">=== EST ===</h1>
 
 <p align="center">
@@ -66,8 +64,8 @@ Est is part software engineering challenge, part research playground, and part e
 
 ---
 
-### 🎨 Griddle
-**Screen annotation, presentation, and recording software**
+<h1 align="center">Griddle</h1>
+<h2 align="center">Screen annotation, presentation, and recording software</h2>
 
 [Explore Griddle repository](https://github.com/sorenessen/Griddle) -- Permission required
 
