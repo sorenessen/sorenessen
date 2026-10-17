@@ -28,12 +28,7 @@ They're different kinds of software, but they share a common philosophy: solve i
   <img width="321" height="214" alt="Est_ Earth in Cosmic Glow" src="https://github.com/user-attachments/assets/6ef2e918-57eb-41b0-af21-5592b8df7ed6" />
 </p>
 
-<!-- <p align="center">
-  <img width="1216" height="466" alt="Screenshot 2026-09-12 at 12 04 45 AM" src="https://github.com/user-attachments/assets/1a5425fe-1427-4e2c-818f-7a11fa8d0ae2" />
-</p> -->
 <h3 align="center">A living planetary simulation.</h3>
-
-<h4 align="center">"In-World" development progress examples</h4>
 <p align="center">
   <img width="250" height="120" alt="mount-rainier-night-terrain" src="https://github.com/user-attachments/assets/3f3123e0-af0e-41c9-94b3-ac2966fc7d5c" />
   <img width="250" height="120" alt="Screenshot 2026-09-12 at 12 08 40 AM" src="https://github.com/user-attachments/assets/b1a3c767-a876-4bf4-ade0-0e979c52458e" />
