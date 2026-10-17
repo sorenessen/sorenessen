@@ -22,11 +22,9 @@ These projects range from developer utilities and cross-platform applications to
 They're different kinds of software, but they share a common philosophy: solve interesting problems, understand the underlying systems, and build useful things.
 
 <h1 align="center">=== EST ===</h1>
-
 <p align="center">
   <img width="1216" height="466" alt="Screenshot 2026-09-12 at 12 04 45 AM" src="https://github.com/user-attachments/assets/1a5425fe-1427-4e2c-818f-7a11fa8d0ae2" />
 </p>
-
 <h3 align="center">A living planetary simulation.</h3>
 
 <h4 align="center">"In-World" development progress examples</h4>
