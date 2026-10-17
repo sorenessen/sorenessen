@@ -41,6 +41,7 @@ They're different kinds of software, but they share a common philosophy: solve i
 <p align="center">
   <img width="500" height="240" alt="Screenshot 2026-10-16 at 9 33 52 PM" src="https://github.com/user-attachments/assets/becce0c7-c4a1-47fa-9662-88e14f8798af" />
 </p>
+
 ### [Visit Live Est Observatory](https://calypso-labs.com/est/)
 [Explore Est repositories](https://github.com/sorenessen?tab=repositories&q=Est)
 
