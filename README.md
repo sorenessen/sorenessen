@@ -24,7 +24,6 @@ They're different kinds of software, but they share a common philosophy: solve i
 ### 🌎 Est
 
 <h1 align="center">=== EST ===</h1>
-<h2 align="center">https://calypso-labs.com/est/</h2>
 
 <p align="center">
   <img width="1216" height="466" alt="Screenshot 2026-09-12 at 12 04 45 AM" src="https://github.com/user-attachments/assets/1a5425fe-1427-4e2c-818f-7a11fa8d0ae2" />
@@ -32,13 +31,12 @@ They're different kinds of software, but they share a common philosophy: solve i
 
 ## A living planetary simulation.
 
+## In-world development progress
 <p align="center">
   <img width="250" height="120" alt="mount-rainier-night-terrain" src="https://github.com/user-attachments/assets/3f3123e0-af0e-41c9-94b3-ac2966fc7d5c" />
   <img width="250" height="120" alt="Screenshot 2026-09-12 at 12 08 40 AM" src="https://github.com/user-attachments/assets/b1a3c767-a876-4bf4-ade0-0e979c52458e" />
   <img width="250" height="120" alt="Screenshot 2026-09-12 at 12 07 52 AM" src="https://github.com/user-attachments/assets/acbe955c-f79f-436d-be10-cb4aa3daef6e" />
 </p>
-
-**A persistent, evolving planetary simulation**
 
 ### [Visit Live Est Observatory](https://calypso-labs.com/est/)
 
